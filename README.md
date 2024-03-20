@@ -1,4 +1,4 @@
-## Graduate School of Cancer Science and Policy: Deep Learning Algorithms (AC5001)
+## Deep Learning Algorithms (AC5001)
 Welcome to the repository for the Deep Learning Algorithms (AC5001) course, offered by the Graduate School of Cancer Science and Policy(GCSP). 
 This course is led by (Assistant) Professor Junetae Kim. The primary goal of this repository is to provide students with lecture notes and practical exercises. 
 We are committed to facilitating an enriching learning experience by leveraging AI to understand and combat cancer.
