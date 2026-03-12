@@ -22,7 +22,7 @@ Welcome to the repository for the Deep Learning Algorithms (AC5001) course, offe
 
 For any inquiries or assistance, please contact:
 
-- Assistant Professor Junetae Kim
+- Associate Professor Junetae Kim
   - Email: lyjune0070@gmail.com
   - Office: National Cancer Center, Cancer Screening Building, Room 1014-1
 
